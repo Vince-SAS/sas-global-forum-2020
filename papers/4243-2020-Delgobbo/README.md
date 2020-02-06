@@ -14,7 +14,7 @@ If you do not want to use the ZIP archive then you can access the individual fil
 
 ## Contact Information
 
-Vincent DelGobbo
+Vincent DelGobbo  
 SAS Institute Inc.
 
 LinkedIn: [https://www.linkedin.com/in/vince-delgobbo-a717b88/](https://www.linkedin.com/in/vince-delgobbo-a717b88/)
